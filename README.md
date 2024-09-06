@@ -246,4 +246,4 @@ To create a fully-featured web application with user authentication, REST API, d
 
 This project setup provides a solid foundation for a production-level web application. It covers user authentication, database integration, API development, and deployment. You can further enhance the application by adding features like notifications, advanced task management, and additional user roles.
 
-Feel free to adjust the project according to your specific requirements or preferences.
+
